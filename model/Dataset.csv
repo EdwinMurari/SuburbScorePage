@@ -1,0 +1,47 @@
+User_Comments,Labels,Sentiment
+"The housing market in this neighborhood is thriving, with beautiful homes and friendly neighbors creating a welcoming atmosphere.",Housing,Positive
+"Prices for houses in this area have skyrocketed, making it difficult for first-time buyers to find affordable options.",Housing,Negative
+"There seems to be a mix of older homes and new developments in this region, reflecting a diverse range of architectural styles.",Housing,Neutral
+I just found the perfect house in this area! The parks and schools nearby make it an ideal place for families.,Housing,Positive
+"With ongoing community development projects, I believe housing values in this area will continue to rise in the coming years.",Housing,Positive
+"The sense of community in this neighborhood is fantastic; everyone looks out for one another, making it a great place to live.",Housing,Positive
+"Wi-Fi connectivity is inconsistent and slow, which is particularly frustrating for those who rely on it for work or study.",Housing,Negative
+"The quality of local schools is below average, which is a major concern for families considering moving here.""",Housing,Negative
+"With no cultural or entertainment venues nearby, there’s little to do in the area, leading to a dull living experience.",Housing,Negative
+"The neighborhood lacks adequate lighting in public areas, making it feel unsafe and unwelcoming at night.""",Housing,Negative
+"There are reports of increasing crime rates, which makes me worried about investing in a house here.",Crime,Negative
+"The local police department has been proactive in community engagement, which has significantly reduced crime rates in our neighborhood.",Crime,Positive
+"Thanks to neighborhood watch programs, residents feel safer and more connected, leading to a noticeable decline in criminal activity.",Crime,Positive
+"The recent community initiatives focusing on youth outreach have created a positive impact, fostering a safer environment for everyone.",Crime,Positive
+"Crime rates have decreased dramatically over the past year, making this area one of the safest places to live in the city.",Crime,Positive
+"With the installation of new streetlights and security cameras, I feel much more secure walking around the neighborhood at night.",Crime,Positive
+"There's been a worrying rise in thefts and vandalism lately, which is making residents feel unsafe in their own homes.",Crime,Negative
+I can't believe how many reports of violent crime have surfaced recently; it's really concerning for families living here.,Crime,Negative
+"The lack of effective policing in this area has led to an increase in drug-related crimes, creating a sense of fear among residents.",Crime,Negative
+It's disheartening to see so many neighborhoods struggling with crime; it feels like safety is becoming a luxury rather than a right.,Crime,Negative
+"Residents are growing increasingly frustrated with the persistent gang activity in the area, which poses a threat to our community's safety.",Crime,Negative
+"The variety of amenities in this area is impressive! From parks to fitness centers, there’s something for everyone to enjoy.",Amenities,Positive
+I love how close the grocery stores and restaurants are; it makes daily life so convenient and enjoyable.,Amenities,Positive
+"The newly built community center has become a hub for activities and events, bringing residents together and enhancing our quality of life.",Amenities,Positive
+"Having excellent public transportation options nearby makes commuting a breeze, allowing us to explore the city easily.",Amenities,Positive
+The abundance of green spaces and walking trails in this neighborhood encourages a healthy lifestyle and outdoor activities.,Amenities,Positive
+The lack of basic amenities like grocery stores and healthcare facilities in this area makes it difficult for residents to meet their daily needs.,Amenities,Negative
+I'm disappointed with the limited recreational options available; it would be great to see more parks or sports facilities for families.,Amenities,Negative
+"The public transportation system here is unreliable and inconvenient, making it challenging for people without cars to get around.",Amenities,Negative
+"There aren't enough dining options in the neighborhood, and the few that exist are often overcrowded and underwhelming.",Amenities,Negative
+"The absence of reliable internet service in this area is frustrating, especially for those who work remotely or rely on connectivity for daily tasks.",Amenities,Negative
+The traffic was surprisingly light today,Traffic,Positive
+"I made it to my appointment on time, despite the traffic.",Traffic,Positive
+The new traffic light seems to be helping with the flow.,Traffic,Positive
+"I love the new bus lane, it's made my commute much faster.",Traffic,Positive
+"The road construction is finally finished, the traffic is much better now.",Traffic,Positive
+"The traffic is so bad, I'm considering moving closer to work",Traffic,Negative
+The traffic is causing a lot of stress and anxiety.,Traffic,Negative
+The roadworks are causing major traffic delays.,Traffic,Negative
+"The public transport system is unreliable, I'm always stuck in traffic",Traffic,Negative
+I hope they improve the traffic infrastructure soon.,Traffic,Neutral
+"The traffic is a bit unpredictable, sometimes it's bad, sometimes it's good.",Traffic,Neutral
+"The traffic is so congested, it's taking forever to get anywhere.",Traffic,Negative
+I'm late for work again because of traffic.,Traffic,Negative
+I'm considering changing jobs because of the traffic commute.,Traffic,Negative
+The road construction is making it difficult for emergency vehicles to respond.,Traffic,Negative
