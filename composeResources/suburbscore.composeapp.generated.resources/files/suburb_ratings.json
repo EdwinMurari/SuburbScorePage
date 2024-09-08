@@ -1,0 +1,64 @@
+{
+  "suburbs": [
+    {
+      "name": "Melbourne",
+      "rating": 4.5
+    },
+    {
+      "name": "Geelong",
+      "rating": 4.2
+    },
+    {
+      "name": "Ballarat",
+      "rating": 3.8
+    },
+    {
+      "name": "Bendigo",
+      "rating": 3.7
+    },
+    {
+      "name": "Frankston",
+      "rating": 3.9
+    },
+    {
+      "name": "Shepparton",
+      "rating": 3.4
+    },
+    {
+      "name": "Mildura",
+      "rating": 3.6
+    },
+    {
+      "name": "Wodonga",
+      "rating": 3.5
+    },
+    {
+      "name": "Wangaratta",
+      "rating": 3.3
+    },
+    {
+      "name": "Traralgon",
+      "rating": 3.2
+    },
+    {
+      "name": "Morwell",
+      "rating": 3.1
+    },
+    {
+      "name": "Latrobe City",
+      "rating": 3
+    },
+    {
+      "name": "Gippsland",
+      "rating": 2.9
+    },
+    {
+      "name": "Sunbury",
+      "rating": 4.1
+    },
+    {
+      "name": "Craigieburn",
+      "rating": 3.8
+    }
+  ]
+}
